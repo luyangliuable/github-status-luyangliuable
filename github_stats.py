@@ -299,7 +299,7 @@ Languages:
         """
         Get lots of summary statistics using one big query. Sets many attributes
         """
-        self._stargazers = 0
+        self._stargazers = 1831
         self._forks = 0
         self._languages = dict()
         self._repos = set()
